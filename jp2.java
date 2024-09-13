@@ -1,4 +1,4 @@
-public class SquarePattern {
+public class jp2 {
     public static void main(String[] args) {
         int n = 5; // Size of the pattern
 
